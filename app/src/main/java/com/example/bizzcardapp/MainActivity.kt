@@ -150,7 +150,7 @@ private fun CreateInfo() {
         )
 
         Text(
-            text = "Android Compose Programmer",
+            text = "Android Programmer",
             modifier = Modifier.padding(3.dp)
         )
 
